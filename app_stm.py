@@ -40,5 +40,5 @@ if st.button("Envoyer"):
     st.write(f"**Nom :** {nom}")
     st.write(f"**Prénom :** {prenom}")
     st
-```
+ 
      
